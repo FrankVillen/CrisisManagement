@@ -75,6 +75,7 @@ def convert_valid(one_char):
 def start_stream(timing, query, directory_program):
     globals()['end'] = timing
     print("\n\tStarted at: " + time.strftime("%H:%M:%S"))
+    # Be sure to set your Config correctly at DataConfig
     authentic = OAuthHandler(DataConfig.consumer_key, DataConfig.consumer_secret)
     authentic.set_access_token(DataConfig.access_token, DataConfig.access_token_secret)
     # api = tweepy.API(authentic)
@@ -106,6 +107,7 @@ if __name__ == '__main__':
             exit()
     print("\tStarted at: " + time.strftime("%H:%M:%S") + "\n")
     print("\tPress STOP bottom when you want to finish.")
+    # Be sure to set your Config correctly at DataConfig
     auth = OAuthHandler(DataConfig.consumer_key, DataConfig.consumer_secret)
     auth.set_access_token(DataConfig.access_token, DataConfig.access_token_secret)
     api = tweepy.API(auth)
