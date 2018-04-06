@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.48333, 
+                    51.2
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The snow is so deep trying not to fall over \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f #snow #stormemma #beastfromtheeast @ Andover,\u2026 https://t.co/X8UOvqcwiB", 
+                "created_at": "Fri Mar 02 09:21:16 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.48333, 
+                    51.2
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Loving the snow \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\ud83c\udf28\ud83c\udf28\ud83c\udf28 #snowselfie #stormemma #beastfromtheeast #snow @ Andover, Hampshire,\u2026 https://t.co/tDmvDXYb3X", 
+                "created_at": "Fri Mar 02 09:23:19 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.49058911, 
+                    53.29618631
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Day 3 of #beastfromtheeast #stormemma  #sneachta #snowmageddon @ Newcastle, Dublin, Ireland https://t.co/DDncQrB3tu", 
+                "created_at": "Fri Mar 02 09:25:27 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.40516489, 
+                    53.27585543
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Snowed in! #beastfromtheeast #stormemma #dublin #noworkforme # send bread and milk \ud83d\ude02\u2744 @ Kiltalown https://t.co/SHNA5pbntg", 
+                "created_at": "Fri Mar 02 09:29:16 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.78712122, 
+                    50.27015606
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Behind you! The lighthouse is about to get covered. Again. \n\n#stormemma \n#beastfromtheeast\u2026 https://t.co/OxGN8HeDm7", 
+                "created_at": "Fri Mar 02 09:36:23 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.62306, 
+                    52.6647
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Really want to go join the neighbours #doyouwanttobuildasnowman #StormEmma #snowday #Limerick @\u2026 https://t.co/pzqjB20zE2", 
+                "created_at": "Fri Mar 02 09:36:57 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.69006111, 
+                    51.0584
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The distillery will be closed again today due to #beastfromtheeast &amp; #stormemma \u2744\ufe0f\u2603\ufe0f\n\nKeep warm\u2026 https://t.co/XQEQUy8gRg", 
+                "created_at": "Fri Mar 02 09:38:19 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -7.67877, 
+                    51.98296333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Winter wonderland... #StormEmma #Snowedin https://t.co/DgQWievHvc", 
+                "created_at": "Fri Mar 02 09:41:16 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -7.25694, 
+                    52.1697
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "So Our #Finnish Home is looking VERY Scandinavian this morning.... #waterford #stormemma @\u2026 https://t.co/JNpsUgLFpk", 
+                "created_at": "Fri Mar 02 09:43:21 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.09833, 
+                    53.2028
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Proper \u2744\ufe0f #beastfromtheeast #stormemma @ Bray, Ireland https://t.co/AWFb87hFS9", 
+                "created_at": "Fri Mar 02 09:43:22 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.04944, 
+                    52.975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#snowedin #neverseensomuchsnow #winterwonderland #beastfromtheeast #stormemma \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\u2603\ufe0f\u2603\ufe0f\u2603\ufe0f @\u2026 https://t.co/Luphrrj1HP", 
+                "created_at": "Fri Mar 02 09:56:56 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.3075, 
+                    52.8886
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#stormemma \u2744\ufe0f\u26c4\ufe0f\ud83c\udf28 @ Youghal, Tipperary, Ireland https://t.co/zYrTTaWCAv", 
+                "created_at": "Fri Mar 02 10:02:36 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.0238, 
+                    52.1433
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "So this is mill lane out of Greens Norton! #snow #snowdrift #stormemma #beastfromtheeast #mjcole\u2026 https://t.co/aVzrMLppTv", 
+                "created_at": "Fri Mar 02 10:05:13 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.2597, 
+                    53.3478
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#stormemma has hit again @ Dublin, Ireland https://t.co/c0i0ToIkxA", 
+                "created_at": "Fri Mar 02 10:07:56 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.10788152, 
+                    53.01190539
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Stuck indoors due to #stormemma #beastfromtheeast so I put a lure on #pokemongo and got some\u2026 https://t.co/a6Fr4N5yHa", 
+                "created_at": "Fri Mar 02 10:13:14 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.54626779, 
+                    53.16087373
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#Blessington #Wicklow #stormemma #sendbread https://t.co/fy5Q44zdWm", 
+                "created_at": "Fri Mar 02 10:14:11 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.5336, 
+                    50.7218
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#snowday #beastfromtheeast #stormemma #batshitcrazy @ Exeter, Devon https://t.co/p4iTygxxSo", 
+                "created_at": "Fri Mar 02 10:15:50 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.1113, 
+                    53.200795
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#stormemma2018 #stormemma #bray #dublin #ireland #eire\u2026 https://t.co/XQPIVDbVvz", 
+                "created_at": "Fri Mar 02 10:15:58 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.31508466, 
+                    53.66955774
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Too busy for a slowdown in our workshop today! #stormemma #grassmachinery @ JF Hanley Groundcare https://t.co/j3CGtcwQVu", 
+                "created_at": "Fri Mar 02 10:18:28 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.10472, 
+                    51.0211
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Ice on snow #stormemma @ Taunton, Somerset https://t.co/mIB4Fcxwhb", 
+                "created_at": "Fri Mar 02 10:24:07 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.98333, 
+                    50.7833
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The beautiful side to freezing rain #Devon #stormemma #garden #icicles #iphone7plus @ Axminster https://t.co/1fikVFHqnq", 
+                "created_at": "Fri Mar 02 10:27:14 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.98333, 
+                    50.7833
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The beautiful side to freezing rain #Devon #garden #stormemma #iphone7plus @ Axminster https://t.co/anwO85mzYS", 
+                "created_at": "Fri Mar 02 10:28:54 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.52731599, 
+                    51.47674494
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#thebeastfromtheeast may be causing problems all over the South West but dont the granite slabs look gorgeous!!\nWra\u2026 https://t.co/mi91gU5Ccw", 
+                "created_at": "Fri Mar 02 10:30:09 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -7.21056, 
+                    52.8061
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Before the snowball attack jake_mcnamara05 \ud83d\udc63\u26c4\u2744\n#stormemma #Kilkenny #beastfromtheeast #scenery\u2026 https://t.co/WHqy3aHuYj", 
+                "created_at": "Fri Mar 02 10:36:19 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.94056, 
+                    54.0719
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The #beastfromtheeast has finally arrived in Doohoma #Mayo \u2744\ufe0f #snowday #loves_ireland #stormemma\u2026 https://t.co/zEWBRuBLA7", 
+                "created_at": "Fri Mar 02 10:39:35 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.17143492, 
+                    51.49635132
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Frozen winds, swirling snowstorms, and roads made impassable due to drifting snow.\n\nThis is why we're getting so mu\u2026 https://t.co/H6LyhgCDpN", 
+                "created_at": "Fri Mar 02 10:45:08 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.2597, 
+                    53.3478
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Roads last night. Not bad at all. #DublinLovesBikes #stormemma #beastfromtheast #cyclinginsnow\u2026 https://t.co/cJR5zuRQpM", 
+                "created_at": "Fri Mar 02 10:45:35 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.35802046, 
+                    36.14328379
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Usual office view above. Today's below.\n\n #barrascaEmma #stormEmma #gib #gibraltar #rainRainRain\u2026 https://t.co/qJ8Sb05Xax", 
+                "created_at": "Fri Mar 02 10:45:40 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.3172855, 
+                    51.8515102
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Well #stormemma didn't disappoint about a foot and half of #Snow everywhere #beastfromtheast #SNOWMAGGEDDON #cobh\u2026 https://t.co/ZNCjo6Cwu4", 
+                "created_at": "Fri Mar 02 10:46:22 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.2806, 
+                    51.6513
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "This mornings walk #snowday #snowdogs #damncold #stormemma #beastfromtheeast #cockersofinsta\u2026 https://t.co/IlwlYRGDE1", 
+                "created_at": "Fri Mar 02 10:46:41 +0000 2018"
+            }
+        }
+    ]
+}
