@@ -1,0 +1,31 @@
+Code	Name					Description
+----	----					-----------
+T01	Caution and advice			Warnings issues or lifted, guidance, and tips.
+T02	Injured people				Casualties (injured) due to the crisis.
+T03	Dead people				Casualties (deceased) due to the crisis.
+T04	Infrastructure damage			Buildings or roads damaged or operational; utilities/services interrupted or restored.
+T05	Money					Money requested, donated, or spent.
+T06	Supplies needed or offered		Needs or donations of supplies such as food, water, clothing, medical supplies or blood.
+T07	Services needed or offered		Services needed or offered by volunteers or professionals.
+T08	Missing, found, or trapped people	Questions and/or reports about missing or found people.
+T09	Displaced and evacuated people		People who have relocated due to the crisis, even for a short time (includes evacuations).
+T10	Animal management			Pets and other non-human animals, living, missing, displaced, or injured/dead.
+T11	Personal updates, sympathy		Status updates about individuals or loved ones; emotional support, thoughts and prayers.
+
+Code	Name					Description
+----	----					-----------
+C01	Children and education			Children's well-being and education.
+C02	Food and nutrition			Nutritional well-being. Needs food, or able to provide food.
+C03	Health					Mental, physical, emotional well-being and health.
+C04	Logistics and transportation		Delivery and storage of goods and supplies.
+C05	Camp and shelter			Shelter required or offered; condition and location of shelters and camps.
+C06	Water, sanitation, and hygiene		Availability of clean water, waste and sewage disposal, access to hygienic facilities.
+C07	Safety and security			Protection of people/property against harm such as violence or theft.
+C08	Telecommunications			Mobile and landline networks, Internet.
+
+Code	Name					Description
+----	----					-----------
+O01	Weather					Updates about the weather.
+O02	Response agencies in place		Formal response agencies present (and acting) at the crisis location.
+O03	Witnesses' accounts			Direct accounts by eyewitnesses of the crisis.
+O04	Impact of the crisis			Negative consequences of the crisis.
